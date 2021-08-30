@@ -1,6 +1,6 @@
 # React 18 alpha, Tailwind, SCSS, axios, react-router, lazy loading for chunk
 
-# Commaands
+# Commands
 ## yarn run dev - install packages and to start the app
 ## yarn run analyze - to open source map explorer
 
